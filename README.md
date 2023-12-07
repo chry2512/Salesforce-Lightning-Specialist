@@ -1,4 +1,4 @@
-Apex Wrapper Salesforce Metadata API
+DEPLOY IN YOUR ORG!
 ====================================
  
 <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&amp;repo=apex-mdapi">
