@@ -1,4 +1,4 @@
-DEPLOY IN YOUR ORG!
+<<<<<<<<DEPLOY IN YOUR ORG!<<<<<<<<
 ====================================
  
 <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&amp;repo=apex-mdapi">
