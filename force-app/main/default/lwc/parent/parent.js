@@ -1,6 +1,6 @@
 /**
- * @description       : 
- * @author            : 
+ * @description       :  This is a parent component that will be used in the parent component.
+ * @author            : Christian Niro
  * @group             : 
  * @last modified on  : 04-09-2024
  * @last modified by  : 
